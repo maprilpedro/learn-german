@@ -240,6 +240,35 @@
 
 ---
 
+## Demonstratives
+
+### Core Rules
+- **dieser** (this/these) = primary demonstrative determiner and pronoun; strong endings (like *dieser*-type)
+- **jener** (that/those) = formal written German only; in speech use stressed *der/die/das* or *der da*
+- **der/die/das** as demonstrative pronoun: same as definite article EXCEPT: genitive = *dessen/deren/derer*; dative pl = *denen*
+- *das* (not *es*) used for emphasis/stress: *Das war ich; Das stimmt*
+- *derjenige*: always requires a following relative clause; formal style only
+- *derselbe* = 'the same' (numerically identical); *der gleiche* = 'of the same kind' (two different instances)
+- *solch ein/eine* → more common in speech than inflected *solcher/solche/solches* alone
+- *dies* (uninflected) used as subject before *sein* regardless of gender/number of the complement
+
+### Possessives (Determiner vs. Pronoun Endings)
+- **As determiner** (before a noun): possessives take *ein*-type endings — nom. sg masc./neut. have NO ending: *mein Bruder, mein Haus*
+- **As pronoun** (standing alone): possessives take *dieser*-type endings — nom. sg masc. = *meiner*; nom./acc. sg neut. = *meines*
+- *euer-*: drops the inner *e* when an ending beginning with *e* is added: *eure, euren* (NOT *euere*)
+- 3rd person ambiguity (*sein-* vs. *ihr-*): use *dessen/deren* (demonstrative genitive) when necessary to clarify whose: *Karl sah Werner und dessen Frau* (Werner's wife, not Karl's)
+
+### Articles with Proper Names
+- Personal names: **no article** in standard usage; article + name = colloquial familiarity (especially south German/Austrian)
+- Most countries: **no article**; exceptions: *die Schweiz, die Türkei, der Iran, der Irak, der Sudan, die USA, die Niederlande* + all plurals and adjective-containing names
+- Mountains, rivers, seas, mountain ranges: **definite article** always
+- Cities: **no article**; with attribute: article required (*das heutige Berlin*)
+
+### Articles for Possession (Body Parts/Clothing)
+- Use **definite article** (not possessive) with body parts and clothing when the possessor is clear from context (reflexive verb or dative of possession): *Er wäscht sich die Hände; Er klopfte ihr auf die Schulter*
+
+---
+
 ## Adjectives
 
 ### Declension Selection

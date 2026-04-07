@@ -596,7 +596,7 @@ Uses:
 
 ---
 
-## Ch 4: The Articles *(partial — §4.3 onward not yet ingested)*
+## Ch 4: The Articles
 
 ### 4.1 Forms of the Articles
 
