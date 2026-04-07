@@ -672,11 +672,194 @@ When reference is to a specific, familiar, definite whole:
 3. **Institutions, company titles, buildings**: *die Schule, das Parlament, die NATO, die BASF, im Kölner Dom, das Ulmer Rathaus*
    - NB: No article with proper name in apposition: *Schloss Sanssouci, Burg Gibichstein, Kloster Beuron*
 
-*⚠ Sections §4.3–4.9 (generalizations, time expressions, names, possession, German–English differences, prepositions) not yet ingested*
+### 4.3 Generic Use of the Article
+
+#### 4.3.1 The Definite Article for Generalisations
+- **Definite article** used for whole class when the typical or general is intended: *Der Löwe ist ein Raubtier; Das Buch ist eine große Erfindung*
+- Species, types (scientific and literary usage): *Die Eiche wächst langsam; Der Mensch ist sterblich*
+- Compare with English which typically uses no article or the indefinite article in these contexts
+
+#### 4.3.2 The Indefinite Article for Generalisations
+- **Indefinite article** used for generic reference when the individual instance represents the class: *Ein Hund ist ein treues Tier*
+- More appropriate than definite article when individual characteristics are implied
+
+#### 4.3.3 No Article for Generalisations
+- **Zero article** with uncountable mass nouns in generic reference: *Brot ist ein Grundnahrungsmittel; Gold ist teuer*
+- Abstract concepts in general statements: *Freiheit ist wichtig; Zeit ist Geld*
+
+### 4.4 Articles with Proper Names
+
+#### 4.4.1 Personal Names
+- Normally **no article** with proper names: *Friedrich wohnt in Berlin; Anna kommt morgen*
+- **Definite article used** with proper names in colloquial speech (especially South German and Austrian): *Der Peter kommt morgen; Hast du die Maria gesehen?* — marks familiarity or informality
+- **Definite article required** with nicknames and modified names: *der alte Fritz, die kleine Anna*
+- With a following attribute (adjective or genitive): article used: *der arme Karl; das besetzte Paris*
+
+#### 4.4.2 Geographical Names
+- **Most countries and continents: no article**: *Deutschland, Frankreich, Europa, Asien, Amerika*
+  - EXCEPTION — definite article with: *die Schweiz, die Türkei, der Iran, der Irak, der Sudan, der Libanon, die Slowakei, die Tschechische Republik, die USA* (pl), *die Niederlande* (pl)
+  - All countries whose name is a plural or contains an adjective take the definite article: *die Vereinigten Staaten, das heutige Russland*
+- **Mountains**: definite article: *der Brocken, die Zugspitze, der Mont Blanc, der Himalaja*
+- **Mountain ranges, most rivers, lakes, seas, oceans**: definite article: *die Alpen, der Rhein, der Bodensee, die Nordsee, der Atlantik*
+  - Exception: *Genfer See* (without article if noun does not stand alone), but *der Genfer See* when used as subject
+- **Cities**: no article: *Berlin, Hamburg, München*
+  - With attribute: article added: *das heutige Berlin, das zerstörte Dresden*
+- **Regions**: usually with definite article: *das Ruhrgebiet, die Pfalz, die Toskana, das Elsass*
+  - But names that look like adjectives used without article + strong adj. endings: *in Bayern, in Sachsen*
+
+#### 4.4.3 Other Proper Names
+- **Streets, squares**: no article: *in der Brückenstraße, am Marktplatz* — with definite article because of preposition
+- **Months, days, seasons**: definite article with prepositions; alone in time adverbials often without: *im Januar, am Montag, im Frühling* but: *Januar war kalt; Es war Frühling*
+- **Times of day**: with definite article: *am Morgen, am Abend, am Nachmittag*
+  - Fixed expressions: *heute Morgen, gestern Abend, übermorgen Nacht*
+- **Titles and names of works**: with definite article: *die Bibel, die Ilias; der „Spiegel"; das „Kapital"*
+
+### 4.5 Articles Expressing Possession
+
+- German uses the **definite article** (not possessive pronoun) in many contexts where English uses a possessive:
+  - Body parts and clothing (especially with reflexive verb or dative of possession): *Er wäscht sich die Hände; Sie zieht den Mantel an; Ich habe mir den Arm gebrochen*
+  - After dative of possession: *Er klopfte ihm auf die Schulter; Mir tut der Kopf weh*
+  - Compare: *Er wäscht seine Hände* = slightly unusual, implies unusual care/reluctance
+
+### 4.6 The Definite Article in Other Cases Where English Has None
+
+- **Nouns in superlative constructions**: *Sie hat die größte Geduld; Er arbeitet am schnellsten*
+- **Nouns in set phrases and idioms**: *in die Schule gehen, nach Hause gehen, nach Hause kommen* (but: *zu Hause sein*)
+- **A few fixed expressions** with *Hause*: *nach Hause, zu Hause* (but: *nach Frankreich, in Frankreich*)
+- **The in front of percentages and fractions**: *um die Hälfte gestiegen; zu zwei Dritteln*
+
+### 4.7 Zero Article in German Where English Has an Article
+
+- **Professions, nationalities, religions** after *sein, werden, bleiben, nennen* and similar (predicate noun): *Er ist Arzt; Sie ist Deutsche; Er wurde Architekt; Sie ist Buddhist*
+  - Article added if noun is modified: *Er ist ein guter Arzt; Sie ist eine bekannte Schriftstellerin*
+- **After *als*** (in the sense of 'as, in the capacity of'): *Er arbeitet als Lehrer; Ich spreche als Freund*
+  - Article added if modified: *Er arbeitet als ein gut bezahlter Lehrer*
+- **Paired nouns, fixed combinations**: *Tag und Nacht; Vater und Mutter; Schwarz und Weiß; Arm und Reich*
+- **In many set phrases**: *Angst haben; Hunger haben; auf Urlaub sein; zu Fuß gehen; mit Gewalt; unter Druck*
+- **Titles before proper names**: *Herr Müller, Frau Schmidt, Professor Braun, Doktor König*
+  - With definite article when not directly before the name: *der Herr Müller hat angerufen* (colloquial)
+- **Languages after *auf/in***: *auf Deutsch, auf Englisch, in Deutsch*
+
+### 4.8 Articles with Prepositions
+
+- **Certain prepositions + article** form fixed contracted forms (see §4.1 contractions table)
+- The contracted form is preferred in most contexts, especially in set phrases: *am Abend, im Sommer, zum Frühstück, beim Kochen, ins Kino gehen*
+- The uncontracted form (*in dem, an dem*) is used:
+  - When the article carries demonstrative stress: *in *dem* Haus, nicht in diesem*
+  - When the noun is modified by a relative clause: *in dem Haus, das wir gestern gekauft haben*
+  - In formal/bureaucratic style
+- **Regional variation**: South German and colloquial speech uses more contractions than standard written German
 
 ---
 
-## Ch 5: Determiners and Pronouns *(partial — §5.1 demonstratives and §5.2 possessive forms not yet ingested)*
+## Ch 5: Determiners and Pronouns
+
+### 5.1 Demonstrative Determiners and Pronouns
+
+#### 5.1.1 *dieser* 'this, these' — Paradigm (Strong Endings)
+| | Masc. | Fem. | Neut. | Plural |
+|---|---|---|---|---|
+| Nom. | dieser | diese | dieses | diese |
+| Acc. | diesen | diese | dieses | diese |
+| Gen. | dieses | dieser | dieses | dieser |
+| Dat. | diesem | dieser | diesem | diesen |
+
+- **Used as determiner and pronoun**: *dieses Buch, ich nehme dieses*
+- Neuter singular *dieses* often shortened to *dies* when used as pronoun: *Dies ist mein Buch; Dies alles muss geändert werden*
+- As pronoun: refers back to nearest mentioned noun or to something just introduced
+- *dies* (uninflected) used as subject before *sein* regardless of gender: *Dies ist mein Freund; Dies sind meine Kinder*
+
+#### 5.1.2 *jener* 'that, those' (distant)
+- **Formal written German only**; in speech, *der/die/das* (demonstrative, stressed) or *der da/die da* is preferred
+- Same endings as *dieser*
+- Contrasts: *dieser* = nearer, *jener* = further: *Dieser Politiker war erfolgreich, jener jedoch nicht*
+- In colloquial speech: *dieser* often used for both 'this' and 'that', or *der hier* vs. *der da*
+
+#### 5.1.3 *der/die/das* as Demonstrative Pronoun
+- Same forms as definite article **except** genitive (all genders) and dative plural:
+| | Masc. | Fem. | Neut. | Plural |
+|---|---|---|---|---|
+| Nom. | der | die | das | die |
+| Acc. | den | die | das | die |
+| Gen. | **dessen** | **deren** | **dessen** | **derer/deren** |
+| Dat. | dem | der | dem | **denen** |
+
+- **Primary function**: stressed/emphatic pronoun replacing personal pronoun: *Den kenne ich gut; Der hat mir nichts gesagt*
+- In speech, replaces personal pronoun when emphasis or contrast is needed; **can sound rude** when referring to persons present
+- *derer* (genitive plural) is used when no noun follows; *deren* when a noun follows: *die Interessen derer, die bleiben* vs. *deren Meinung*
+- *das* used instead of *es* when emphasis needed: *Das war ich; Das stimmt*
+
+#### 5.1.4 *derjenige* 'the one (who/which)'
+- **Compound demonstrative** = *der* + adjectival *-jenige*; the *der*-part declines like definite article, *-jenige* declines like weak adjective:
+| | Masc. | Fem. | Neut. | Plural |
+|---|---|---|---|---|
+| Nom. | derjenige | diejenige | dasjenige | diejenigen |
+| Acc. | denjenigen | diejenige | dasjenige | diejenigen |
+| Gen. | desjenigen | derjenigen | desjenigen | derjenigen |
+| Dat. | demjenigen | derjenigen | demjenigen | denjenigen |
+
+- Always followed by a relative clause: *Derjenige, der das getan hat, soll sich melden*
+- Formal written style; colloquially often replaced by *der/die/das* alone
+
+#### 5.1.5 *derselbe* 'the same'
+- **Compound**: *der*-part declines like definite article; *-selbe* like weak adjective
+- Same paradigm structure as *derjenige* but with *-selbe/-selben*
+- Used as determiner and pronoun: *Das ist dasselbe Buch; Er trägt immer denselben Anzug*
+- *derselbe* preferred in formal style; *der gleiche* used when 'the same kind' (two different instances of the same type): *Sie haben dasselbe Kleid an* (literally the same garment) vs. *Sie haben das gleiche Kleid an* (same style, different items)
+- Contracted forms in casual writing: *dasselbe* → *das selbe* (non-standard, avoid)
+
+#### 5.1.6 *solch-* 'such (a)'
+- **As determiner** (inflected, endings of *dieser*): *solcher Lärm, solche Musik, solches Glück, solche Leute*
+  - Following adjective has **weak** endings: *solcher alte Lärm*
+- **Before *ein*** (adjective position, no ending): *solch ein Lärm, solch eine Idee* — *so ein* more common in speech
+- **Uninflected *solch*** before strong adjective (formal): *solch gutes Wetter; bei solch schlechtem Wetter*
+- **As pronoun** (= 'such a one/ones'): rare; *solcher/solche/solches* or colloq. *so einer/so eine/so eines*
+
+### 5.2 Possessive Determiners and Pronouns
+
+#### 5.2.1 Base (Stem) Forms
+| Person | Stem |
+|---|---|
+| ich | mein- |
+| du | dein- |
+| er/es | sein- |
+| sie (sg) | ihr- |
+| wir | unser- |
+| ihr | euer- (note: *eur-* before endings beginning with *e*) |
+| Sie (polite) | Ihr- |
+| sie (pl) | ihr- |
+
+#### 5.2.2 Possessive Determiners (*ein*-type endings)
+- When used as a **determiner** (attributive, before a noun), possessives take *ein*-type endings:
+| | Masc. | Fem. | Neut. | Plural |
+|---|---|---|---|---|
+| Nom. | mein | meine | mein | meine |
+| Acc. | meinen | meine | mein | meine |
+| Gen. | meines | meiner | meines | meiner |
+| Dat. | meinem | meiner | meinem | meinen |
+
+- Same pattern for all possessives (substitute the appropriate stem)
+- *euer* loses the inner *e* when an ending beginning with *e* is added: *euer* → *eure, euren, eurem* etc. (but: *euer* in nom. sg masc., nom./acc. sg neut.)
+- Possessives do **not** contrast with demonstratives in terms of emphasis — use demonstratives for emphasis
+
+#### 5.2.3 Possessive Pronouns (*dieser*-type endings)
+- When used as a **pronoun** (standing alone, no following noun), possessives take *dieser*-type endings:
+| | Masc. | Fem. | Neut. | Plural |
+|---|---|---|---|---|
+| Nom. | meiner | meine | mein**e**s | meine |
+| Acc. | meinen | meine | mein**e**s | meine |
+| Gen. | meines | meiner | meines | meiner |
+| Dat. | meinem | meiner | meinem | meinen |
+
+- Key difference from determiner: **nom. sg masc.** = *meiner* (not *mein*); **nom./acc. sg neut.** = *meines* (not *mein*)
+- *unser* and *euer* follow same pattern: *unserer, unsere, unseres; eurer, eure, eures* (nom. masc./neut.)
+- The pronoun form can also appear with a following definite article + noun (predicative): *Das ist mein Buch / Das Buch ist meines*
+- Alternative pronoun form with definite article (formal/literary): *der meine, die meine, das meine* — archaic/literary; *der meinige* etc. = very formal
+
+#### 5.2.4 Possessive Pronouns — Usage Notes
+- Possessives agree in **gender and number with the thing possessed** (not the possessor): *Er liebt seine Mutter* (seine = fem., because Mutter is fem.)
+- 3rd person ambiguity: *sein-* = his/its; *ihr-* = her/their. Context disambiguates; *dessen/deren* (demonstrative genitive) can be used to avoid ambiguity: *Karl sah Werner und **dessen** Frau* (Werner's wife, not Karl's)
+- After *als*: possessives used without article: *als mein Freund*
 
 ### 5.3 Interrogatives
 
@@ -848,3 +1031,370 @@ As **determiner**: inflected *aller* (endings of *dieser*) used on its own; *all
 
 #### 5.5.11 *irgend* 'some...or other'
 - Principal use: **emphasises indefiniteness** (i.e. it doesn't matter which)
+
+---
+
+## Ch 6: Adjectives
+
+### Declension Overview
+
+Three patterns depending on what precedes the adjective:
+- **Strong** (no determiner, or determiner without gender/case ending): adjective carries full case/gender information
+- **Weak** (after der/die/das or equivalent): reduced endings (-e or -en)
+- **Mixed** (after ein/kein/possessives): strong where the determiner has no ending (nom m, nom/acc n), weak elsewhere
+
+### Strong Declension Table (no preceding determiner)
+
+|  | Masc | Fem | Neut | Pl |
+|--|------|-----|------|----|
+| Nom | -er | -e | -es | -e |
+| Acc | -en | -e | -es | -e |
+| Dat | -em | -er | -em | -en |
+| Gen | -en | -er | -en | -er |
+
+Examples: *kalter Kaffee* (nom m), *kalte Milch* (nom f), *kaltes Bier* (nom n), *mit kaltem Kaffee* (dat m), *wegen kalten Wetters* (gen n)
+
+### Weak Declension Table (after der/die/das, dieser, jener, jeder, welcher, etc.)
+
+|  | Masc | Fem | Neut | Pl |
+|--|------|-----|------|----|
+| Nom | -e | -e | -e | -en |
+| Acc | -en | -e | -e | -en |
+| Dat | -en | -en | -en | -en |
+| Gen | -en | -en | -en | -en |
+
+Examples: *der alte Mann*, *die alte Frau*, *das alte Haus*, *die alten Häuser*, *den alten Männern* (dat pl)
+
+### Mixed Declension Table (after ein/kein/possessives)
+
+|  | Masc | Fem | Neut | Pl |
+|--|------|-----|------|----|
+| Nom | -er | -e | -es | -en |
+| Acc | -en | -e | -es | -en |
+| Dat | -en | -en | -en | -en |
+| Gen | -en | -en | -en | -en |
+
+Examples: *ein alter Mann* (nom m — strong -er), *ein altes Haus* (nom n — strong -es), *eine alte Frau* (nom f — weak -e), *meine alten Freunde* (nom pl)
+
+### Special Adjective Forms
+
+- **-el** adjectives drop e: *dunkel* → *ein dunkler Raum* (not *dunkeler*)
+- **-er** adjectives often drop e in speech: *teuer* → *ein teures Auto*
+- **hoch**: stem *hoh-*: *ein hohes Haus*, *die hohe Brücke*
+- **Past participles** as adjectives: *ein gebratenes Hähnchen*, *die geplante Reise*
+- **Present participles** as adjectives: *das schlafende Kind*, *ein laufendes Programm*
+
+### Multiple Adjectives
+
+Each takes the same ending pattern independently:
+- *ein alter, weiser Mann* (an old wise man)
+- *mit frischem, kaltem Wasser* (with fresh cold water — both strong dat n)
+
+### Adjectives as Nouns (Substantivierte Adjektive)
+
+Capitalized; declined like attributive adjectives:
+- After *der/die/das* (weak): *der Alte, die Kranke, das Neue*
+- After *ein/kein* (mixed): *ein Alter, eine Kranke, kein Neues*
+- Without determiner (strong): *Alte* (old people), *Kranke* (sick people)
+- After *etwas/nichts/viel/allerlei* + neuter strong: *etwas Neues*, *nichts Besonderes*, *viel Interessantes*
+- After *alles* (weak): *alles Gute* (all the best), *alles Wichtige*
+
+### Adjectives Governing Particular Cases
+
+**Dative:** *ähnlich* (similar to), *bekannt* (known to), *dankbar* (grateful to), *gleich* (all the same to), *nahe* (close to), *schädlich* (harmful to)
+- *Er ist seinem Vater ähnlich; Das ist mir bekannt; Mir ist das gleich*
+
+**Genitive:** *bewusst* (aware of), *sicher* (certain of), *schuldig* (guilty of), *würdig* (worthy of)
+- *Ich bin mir dessen bewusst; Er ist des Preises würdig*
+
+### Adjectives with Key Prepositions
+
+| Adjective | Preposition | Meaning |
+|-----------|-------------|---------|
+| abhängig | von + dat | dependent on |
+| angewiesen | auf + acc | reliant on |
+| begeistert | von + dat / über + acc | enthusiastic about |
+| bekannt | für + acc | known for |
+| bereit | zu + dat | ready for |
+| böse | auf + acc | angry at |
+| dankbar | für + acc | grateful for |
+| einverstanden | mit + dat | in agreement with |
+| fertig | mit + dat | finished with |
+| froh | über + acc | glad about |
+| interessiert | an + dat | interested in |
+| neugierig | auf + acc | curious about |
+| stolz | auf + acc | proud of |
+| überzeugt | von + dat | convinced of |
+| zufrieden | mit + dat | satisfied with |
+
+---
+
+## Ch 7: Adverbs
+
+### Place vs. Direction Distinction
+
+- *wo?* (where — static): *Er ist hier/dort/oben*
+- *wohin?* (where to — direction): *Er geht hierher/dorthin/hinauf*
+
+**Place adverbs:** *hier, dort/da, drüben, oben, unten, links, rechts, innen, außen, überall, nirgends, irgendwo*
+
+**Direction adverbs:** *hierher, dorthin/dahin, hinauf, hinunter/hinab, herein, heraus*
+
+### Hin and Her
+
+*hin* = movement away from speaker; *her* = toward speaker:
+- *Geh hin!* / *Komm her!*
+- As separable prefixes: *hineingehen* (go in), *hereinkommen* (come in), *hinaufgehen* (go up), *herunterkommen* (come down)
+- Colloquial: *Wo geht er hin?* = *Wohin geht er?*
+
+### Interrogative Adverbs
+
+*wo?* (where/location), *wohin?* (where to), *woher?* (where from), *wann?* (when), *wie?* (how), *warum?/weshalb?* (why), *wie lange?* (how long), *wie oft?* (how often), *wie viel?* (how much)
+
+### Da(r)- and Wo(r)- Prepositional Adverbs
+
+Replace preposition + pronoun for non-personal things:
+- *Ich denke daran* (I'm thinking about it), *Ich freue mich darüber, Womit schreibst du?*
+- *r* inserted before vowels: *daran, darauf, darüber, darin, darunter, daraus, darum, daher, dadurch*
+- No *r* before consonants: *davon, damit, dafür, dazu, dabei, danach*
+- Questions: *woran, worauf, worüber, worin, womit, wofür, wovon, wozu*
+
+### Adverbs of Degree
+
+*sehr* (very), *ziemlich* (fairly), *ganz* (quite), *recht* (rather), *äußerst/höchst* (extremely), *kaum* (hardly), *fast* (almost), *ein bisschen/etwas* (a little), *gar nicht* (not at all), *besonders* (especially), *wirklich* (really), *eigentlich* (actually), *gern* (gladly)
+
+---
+
+## Ch 8: Comparison of Adjectives and Adverbs
+
+### Comparative Formation
+
+Add **-er** to stem; stems in -e add just *-r*:
+- *alt/älter, schnell/schneller, interessant/interessanter, leise/leiser, müde/müder*
+- Monosyllabic a/o/u with Umlaut: *alt/älter, jung/jünger, groß/größer, kurz/kürzer, lang/länger, stark/stärker, warm/wärmer*
+- Comparative adjectives take full declension endings: *ein älterer Mann, mit dem schnelleren Auto*
+
+### Superlative Formation
+
+- Attributive: **-st-** + ending: *der älteste, die schnellste, das kälteste*
+  - Stems ending -d, -t, -s, -ß, -z, -sch: insert *e*: *kalt/kälteste, heiß/heißeste, kurz/kürzeste*
+- Predicate/adverb: **am -sten**: *am ältesten, am schnellsten, am kältesten*
+
+### Irregular Comparisons
+
+| Positive | Comparative | am + superlative | attr. superlative |
+|---------|-------------|-----------------|-------------------|
+| gut | besser | am besten | der beste |
+| viel | mehr | am meisten | der meiste |
+| gern | lieber | am liebsten | der liebste |
+| groß | größer | am größten | der größte |
+| hoch | höher | am höchsten | der höchste |
+| nah(e) | näher | am nächsten | der nächste |
+| bald | eher | am ehesten | — |
+| wenig | weniger | am wenigsten | der wenigste |
+
+### Comparison Constructions
+
+- **Equality:** *so ... wie* — *Er ist so groß wie ich*
+- **Inequality:** *...er als* — *Er ist größer als ich* — NEVER *wie* after comparative
+- **Even/still:** *noch + comparative* — *noch größer* (even bigger)
+- **Getting more and more:** *immer + comparative* — *immer kälter*
+- **The more ... the more:** *je ... desto/umso* — *Je mehr er trinkt, desto lustiger wird er*
+
+### Absolute Superlative
+
+- *höchst, äußerst, überaus* + adjective: *höchst interessant, äußerst schön*
+- Formulaic: *aufs Herzlichste, auf das Beste*
+- Set adverbs: *bestens, höchstens, längstens, wenigstens, nächstens*
+
+---
+
+## Ch 9: Numerals
+
+### Cardinal Numbers
+
+0 *null* | 1 *ein(s)* | 2 *zwei* | 3 *drei* | 4 *vier* | 5 *fünf* | 6 *sechs* | 7 *sieben* | 8 *acht* | 9 *neun* | 10 *zehn* | 11 *elf* | 12 *zwölf* | 13 *dreizehn* | 16 **sechzehn** | 17 **siebzehn** | 20 *zwanzig* | 21 *einundzwanzig* | 30 *dreißig* | 60 **sechzig** | 70 **siebzig** | 100 *(ein)hundert* | 1000 *(ein)tausend* | 1,000,000 *eine Million* (f) | 1,000,000,000 *eine Milliarde* (f)
+
+Compounds 21–99: units + *und* + tens: *einundzwanzig, dreiundvierzig, siebenundneunzig*
+
+*eins* in isolation; *ein* before noun or in compounds: *ein Buch, einundzwanzig*
+
+Shortened forms: *16* = *sechzehn* (not *sechszehn*), *17* = *siebzehn*, *60* = *sechzig*, *70* = *siebzig*
+
+### Declension of Cardinals
+
+- *ein-* declines like indefinite article: *mit einem Kind, ohne einen Grund*
+- *beide* (both) declines like a determiner: *beide Kinder, mit beiden Händen*
+- *zwei/drei* dative forms mainly with *von*: *mit zweien/dreien von ihnen*
+
+### Ordinal Numbers
+
+Add **-t-** (2–19) or **-st-** (20+) + declension endings:
+
+| Notable forms | Ordinal stem |
+|--------------|-------------|
+| 1 | erst- (irregular) |
+| 3 | dritt- (irregular) |
+| 7 | siebt- (not *sievent-*) |
+| 8 | acht- (not *achtst-*) |
+| 20 | zwanzigst- |
+| 100 | hundertst- |
+
+Written as numeral + period: *am 5. Mai* (spoken: *am fünften Mai*), *der 1. Januar*
+
+### Fractions
+
+- *halb* (adjective, declines): *ein halbes Jahr, eine halbe Stunde, zum halben Preis*
+- 1½ = *anderthalb / eineinhalb*; 2½ = *zweieinhalb*; 3½ = *dreieinhalb*
+- Other fractions (neuter nouns, -tel): *ein Drittel* (1/3), *ein Viertel* (1/4), *drei Viertel* (3/4), *ein Fünftel* (1/5)
+- Clock: *Viertel nach drei* (3:15), *Viertel vor vier* (3:45)
+
+### Multiplicatives and Practical Expressions
+
+- Frequency: *einmal, zweimal, dreimal, hundertmal*
+- *zum ersten Mal, zum zweiten Mal, erstmals, nochmals*
+- Multiplicative adjectives: *doppelt* (double), *dreifach* (threefold), *einfach* (single)
+- House number after street: *Bahnhofstraße 12*
+- Years: *1989* = *neunzehnhundertneunundachtzig*; 2000+ = *zweitausend, zweitausendelf*
+- Decimal: comma — *3,5* = *drei Komma fünf*; thousands: period or space — *1.000* or *1 000*
+
+---
+
+## Ch 11: Expressions of Time
+
+### 11.1 Clock Times
+
+#### 12-hour clock (everyday speech)
+
+| Time | German | Regional note |
+|------|--------|---------------|
+| 1:00 | Es ist ein Uhr / Es ist eins | |
+| 3:00 | Es ist drei (Uhr) | |
+| 3:05 | fünf (Minuten) nach drei | |
+| 3:15 | Viertel nach drei | viertel vier (S/E Germany) |
+| 3:20 | zwanzig nach drei / zehn vor halb vier | |
+| 3:25 | fünf vor halb vier | |
+| 3:30 | halb vier | |
+| 3:35 | fünf nach halb vier | |
+| 3:40 | zwanzig vor vier / zehn nach halb vier | |
+| 3:45 | Viertel vor vier | dreiviertel vier (S/E Germany) |
+| 3:50 | zehn (Minuten) vor vier | |
+| 3:55 | fünf (Minuten) vor vier | |
+
+Critical: *halb vier* = half past **three** — German *halb* looks forward to the next hour.
+
+South/East Germany: *viertel vier* = 3:15; *dreiviertel vier* = 3:45.
+
+#### 24-hour clock (official)
+
+Format: *[hour] Uhr [minutes]* — *zehn Uhr dreißig*, *dreizehn Uhr sieben*, *einundzwanzig Uhr siebenunddreißig*
+
+In speech, *Uhr* omitted for full hours 1–12: *Ihr Zug kommt um neun an*
+
+#### Clock phrases
+
+- *Wie viel Uhr ist es? / Wie spät ist es?* — What's the time?
+- *Um wie viel Uhr kommt sie?* — What time is she coming?
+- *um drei Uhr nachts/vormittags/mittags/nachmittags/abends*
+- *Es ist Punkt/genau neun (Uhr)* — exactly nine
+- *Es ist ungefähr neun* — about nine
+- *Es ist (schon) neun Uhr vorbei* — it's gone nine
+- *gegen neun (Uhr) an* — at about/just before nine (ambiguous)
+
+### 11.2 Days, Months, and Holidays
+
+**Days:** Sonntag, Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag/Sonnabend
+
+*Samstag* standard nationwide; *Sonnabend* survives in far North and former East Germany. 'On Sunday' = *am Sonntag* etc.
+
+**Months:** Januar (Jänner in Austria), Februar, März, April, Mai, Juni, Juli, August, September, Oktober, November, Dezember. 'In January' = *im Januar* etc.
+
+**Key public holidays:** Neujahr, Karfreitag, Ostern, Himmelfahrt, Pfingsten, Tag der Deutschen Einheit (3. Okt.), Allerheiligen (1. Nov.), Heiligabend, Weihnachten, Erster/Zweiter Weihnachtstag, Silvester. Note: *Ostern, Pfingsten, Weihnachten* normally treated as plurals.
+
+### 11.3 Dates
+
+- Ordinals for days of the month: *der fünfte April*, *am fünften Mai*
+- In writing: numerals + period always — *5. April, am 5. Mai*; day **before** month: *5.6.2008* = 5 June 2008
+- *Der Wievielte ist heute?* — What's the date? — *Heute ist der 8. (achte) Mai*
+- Day of week + date: *am Montag, den 5. Juni* (acc) or *am Montag, dem 5. Juni* (dat) — both acceptable
+- Letter headings: *Siegen, den 5.6.11* or *Siegen, am 5.6.11*
+
+### 11.4 Cases in Time Adverbials (no preposition)
+
+**Accusative** — duration or specific time:
+- Duration: *einen Monat, drei Monate, den ganzen Tag, Jahre hindurch*
+- Specific: *jeden Tag, nächsten Dienstag, dieses Jahr, letzten Freitag, kommende Woche*
+- *Anfang/Mitte/Ende* + month without preposition: *Anfang Januar, Ende März*; standalone: *am Anfang, am Ende*
+
+**Genitive** — indefinite/habitual time (mainly set expressions):
+- *eines Tages, eines Morgens, eines Nachts, eines Sonntags*
+- Fossilized adverbs (lowercase): *morgens, nachmittags, abends, nachts, montags...freitags, wochentags, sommers, winters*
+
+### 11.5 Prepositions with Time Expressions
+
+**ab** (acc/dat) — from: *ab neun Uhr, ab heute, ab sofort*; with article dative required: *ab dem ersten Mai*
+
+**an** (dat) — on [days/parts of day]: *am Montag, am Morgen, am Abend, am 31. Oktober*; compounds: *am Donnerstagabend*; but *in der Nacht* (not *an der Nacht*)
+
+**bis** — until/by: bare with adverbs/simple phrases: *bis heute Abend, bis Montag*; with article must use *bis zu* + dat: *bis zum 18. Jahrhundert, bis zu seinem Tode*; after weekday + date, accusative follows: *bis Montag, den 5. September*
+
+**für** (acc) — for [period from now]: *für sechs Monate*; bare accusative for wholly past/future: *Er blieb einen Monat*; use *seit* for past period continuing to present
+
+**gegen** (acc) — about/towards: *gegen zwei Uhr* (ambiguous: 'about' or 'just before'), *gegen Mittag, gegen Abend*
+
+**in** (dat) — in [month/season/year]: *im Januar, im Sommer*; *im Jahre 2012* or bare *2012*; *in 2015* is English calque, felt incorrect; within which: *in zwei Stunden, in zwei Tagen*
+
+**nach** — after: *nach vielen Jahren, nach einer Weile, nach Ostern*
+
+**seit** (dat) — for/since [past → present]: *seit drei Wochen* with **present tense** (not perfect!); *seit einer Stunde wartete ich* with **past tense**
+
+**über** (acc) — over/throughout: *über Nacht, übers Wochenende*; post-nominal: *die ganze Nacht über*
+
+**um** (acc) — at [clock time]: *um vier Uhr, um Mitternacht*; approximate: *um Mitternacht herum, um Ostern herum*
+
+**von ... an** (dat) — from: *von 1991 an, von nun an, von Anfang an, von Zeit zu Zeit*
+
+**vor** (dat) — ago/before: *vor einem Jahr, vor kurzem, vor langer Zeit*; informal 'ago': *Es ist einen Monat her*
+
+**während** (gen) — during: *während der Aufführung, während der Wintermonate*; NOT with bare Tag/Abend/Nacht + definite article — use *am Tag, in der Nacht*; OK with adjective: *während der letzten Nacht*
+
+**zu** (dat) — at [festivals/Zeit/Mal]: *zu Weihnachten, zu Ostern, zu Pfingsten*; *zur Zeit der Wahlen, zu jeder Zeit*; *zum ersten Mal, zum zehnten Mal*
+
+### 11.6 Adverbs of Time
+
+**Present reference:** *augenblicklich, derzeit, gegenwärtig, gleichzeitig, heute, heutzutage, jetzt, momentan, vorerst, zugleich, zurzeit*; *heuer* (this year — South German)
+
+**Past reference:** *damals, früher, gerade/soeben, gestern, kürzlich, neuerdings/neulich, vorher/zuvor, vorhin*
+
+**Future reference:** *bald, danach/darauf, demnächst, gleich, morgen, nachher, sofort/sogleich, später*
+
+**Duration:** *bisher/bislang, lange/längst, mittlerweile, seither/seitdem, unterdessen, vorläufig, zeitweilig*; *-lang* suffix: *stundenlang, monatelang, jahrelang*
+
+**Frequency:** *gelegentlich, häufig, immer, manchmal, mehrmals, meistens, nie/niemals, oft, selten, stets, zuweilen*
+
+**Heute/Gestern/Morgen compounds:**
+
+| German | English |
+|--------|---------|
+| gestern Morgen | yesterday morning |
+| gestern Abend | last night (before bedtime) |
+| vorgestern | day before yesterday |
+| heute Nacht | tonight / last night (after bedtime) |
+| heute Morgen / heute früh | this morning |
+| heute Nachmittag | this afternoon |
+| heute Abend | this evening |
+| morgen früh | tomorrow morning |
+| übermorgen | day after tomorrow |
+
+**German equivalents of 'then':**
+- *damals* = then (past, at that time): *Sie war damals sehr arm*
+- *dann* = then (sequence/after that): *Dann ist er gegangen* — cannot follow a preposition (*bis dahin*, not *bis dann*)
+- *denn* = then (intensifying in questions): *Was ist denn passiert?*
+
+**German equivalents of 'recently':**
+- *vor kurzem / kürzlich* — a point not long ago (no connection to present implied)
+- *neulich* — point not long ago, recalled as relevant to present
+- *neuerdings* — up to and including the present (something newly started)
+- *in letzter Zeit* — over a period up to and including now (latterly)
+- *seit kurzem* — not for very long, continuing to present
+- *rezent* (Austrian/Swiss) — mainly specialist/formal contexts

@@ -237,3 +237,117 @@
 - *was* not used with most prepositions → **wo(r)+preposition**: *womit, worüber, worauf*
 - *wessen* (genitive of *was*) is felt clumsy and avoided in practice
 - Idiomatic: German uses **wie** where English uses 'what' with *heißen* and names: *Wie ist Ihr Name?*
+
+---
+
+## Adjectives
+
+### Declension Selection
+- After der/die/das (and dieser/jener/jeder/welcher/aller/solcher): use **WEAK** — only -e or -en endings
+- After ein/kein/possessives: use **MIXED** — strong only in nom m (*ein alter**er** Mann*) and nom/acc n (*ein alte**s** Haus*), weak everywhere else
+- After no determiner: use **STRONG** — adjective carries all gender/case marking
+- Two or more adjectives: each takes the same ending independently (*mit frischem, kaltem Wasser*)
+
+### Special Forms — Do Not Confuse
+- **hoch** stem changes to *hoh-*: *ein hohe**s** Haus* (NEVER *ein hochs Haus*)
+- **-el** adjectives always drop the *e*: *dunkel* → *dunklE, dunklER, dunklEM* (NEVER *dunkelER*)
+- **-er** adjectives may drop the *e* in speech: *teuer* → *teures Auto* (both written and spoken)
+
+### Nominalized Adjectives
+- After *etwas/nichts/viel/allerlei*: strong **neuter**: *etwas Neue**s**, nichts Besondere**s***
+- After *alles*: weak: *alles Gut**e**, alles Wichtig**e***
+- After *als* ('as a'): usually uninflected in nom sg: *als Erwachsene**r*** (m), *als Erwachsen**e*** (f)
+
+### Adjectives Governing Cases/Prepositions
+- **Dative** (not accusative): *ähnlich, bekannt, dankbar, gleich, nahe, schädlich*
+- **Genitive**: *bewusst, schuldig, sicher, würdig*
+- *interessiert* + **an** + dat (NOT *für*): *interessiert an der Kunst*
+- *stolz* + **auf** + acc (NOT *von*): *stolz auf seinen Sohn*
+- *neugierig* + **auf** + acc (NOT *an*): *neugierig auf das Ergebnis*
+- *zufrieden* + **mit** + dat (NOT *über*): *zufrieden mit dem Ergebnis*
+
+---
+
+## Adverbs
+
+### Place vs. Direction
+- Always distinguish *wo?* (static) vs. *wohin?* (direction): *Er ist oben* vs. *Er geht hinauf*
+- *hin* = away from speaker; *her* = toward speaker — never mix them
+
+### Prepositional Adverbs (da/wo compounds)
+- For non-personal things: NEVER preposition + *es/das* — use *da(r)-*: *Ich denke daran* (NOT *Ich denke an es*)
+- Insert *r* before vowels: *daran, darauf, darüber, darin, darunter* (NOT *daauf, daüber*)
+- Questions about things: *woran, worauf, worüber* (not *an was* — colloquial only)
+
+---
+
+## Comparison
+
+### Core Rules
+- Comparative: always **-er** — never use *mehr* + adj to form comparatives
+- After comparatives: always **als** (NEVER *wie*): *Er ist größer als ich* (NOT *wie ich*)
+- Equality: *so ... wie* (never *so ... als*)
+
+### Irregular Forms — Must Know
+- *gut/besser/am besten, viel/mehr/am meisten, gern/lieber/am liebsten*
+- *groß/größer/am größten, hoch/höher/am höchsten, nah/näher/am nächsten*
+- *wenig/weniger/am wenigsten, bald/eher/am ehesten*
+
+### Superlative
+- Predicate/adverb: always *am + -sten*: *am besten, am schönsten*
+- Attributive: *der/die/das + -st-* + ending: *der beste, die schönste*
+- Stems ending -s, -ß, -z, -d, -t, -sch: insert *e*: *heißeste, kürzeste, kälteste*
+
+---
+
+## Numerals
+
+### Cardinal Forms — Irregular Shortenings
+- *sechzehn* (NOT *sechszehn*), *siebzehn* (NOT *siebenzehn*)
+- *sechzig* (NOT *sechszig*), *siebzig* (NOT *siebenzig*)
+- Compounds 21–99: units + *und* + tens — *einundzwanzig* (never *zwanzigeins*)
+- *eins* in isolation; *ein* before noun: *Gib mir eins* vs. *Gib mir ein Bier*
+
+### Ordinal Formation
+- 2–19: **-t-** + ending: *zweite, dritte, vierte ... neunzehnte*
+- 20+: **-st-** + ending: *zwanzigste, hundertste*
+- Irregulars: **erst-** (1), **dritt-** (3), **siebt-** (7), **acht-** (8 — no added *t*)
+- Always write as numeral + period: *am 5. Mai* not *am fünften Mai* (in writing)
+
+---
+
+## Expressions of Time
+
+### Clock Times
+- *halb vier* = **half past three** (NOT half past four) — German *halb* points to the coming hour
+- 'At': always *um* + accusative: *um vier Uhr, um halb drei* (NEVER *at four* without *um* in formal writing)
+- 'What time is it?': *Wie viel Uhr ist es?* or *Wie spät ist es?*
+
+### Dates
+- Day **before** month: *5.6.* = 5th June; *5. Juni* (NOT *Juni 5*)
+- Written dates: numeral + period: *am 5. Mai, der 1. Januar*
+- 'On the 5th of June': *am fünften Juni* (spoken) / *am 5. Juni* (written)
+
+### Prepositions with Time — Core Rules
+- **an** + dat: days of the week and parts of day — *am Montag, am Morgen, am Abend*
+- **in** + dat: months, seasons, years — *im Januar, im Sommer, im Jahre 2012*
+- Do NOT use bare *in 2012* (English calque) — write *im Jahre 2012* or simply *2012*
+- **um** + acc: clock times — *um vier Uhr*
+- **zu**: festivals — *zu Weihnachten, zu Ostern, zu Pfingsten*; + *Mal*: *zum ersten Mal*
+- **seit** + **present tense** when still ongoing: *Ich warte seit einer Stunde* (I've been waiting for an hour)
+- **seit** + **imperfect** when reference point is past: *Ich wartete seit einer Stunde, als er kam*
+- Duration in past/future with no present connection: bare **accusative** — *Er blieb einen Monat in Berlin*
+- **vor** + dat: ago — *vor einem Jahr* (a year ago)
+- **bis zu** + dat when article present: *bis zum Ende, bis zu seinem Tod*; bare *bis* with adverbs/simple phrases: *bis morgen*
+- **während** + gen: during — *während der Ferien*; NOT with bare Tag/Abend/Nacht + definite article
+
+### Adverbs of Time — Key Distinctions
+- 'Then' (past): *damals*; 'then' (sequence): *dann*; 'then' (questions, intensifying): *denn*
+- *dann* CANNOT follow a preposition — use *bis dahin, seitdem, von da an* etc.
+- 'Still': *noch*; 'already': *schon*; 'not yet': *noch nicht*; 'no longer': *nicht mehr*
+- 'Recently' — choose carefully:
+  - *vor kurzem / kürzlich* — a point not long ago, no present connection
+  - *neulich* — past point recalled as relevant to now
+  - *neuerdings* — something newly started, ongoing up to present
+  - *in letzter Zeit* — over a period up to and including now
+- *gestern Abend* = last night (before bedtime); *heute Nacht* = tonight/last night (after bedtime) — these do NOT overlap
